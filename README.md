@@ -1,0 +1,1 @@
+## a Buddhist dictionary app made with Nextjs, Mongodb

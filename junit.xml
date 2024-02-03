@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="1" failures="0" errors="0" time="4.342">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2021-11-24T18:57:52" time="4.246" tests="1">
+    <testcase classname=" parse xml for A Chinese Translation of A.P. Buddhadatta&apos;s &quot;Concise Pali-English Dictionary&quot;" name=" parse xml for A Chinese Translation of A.P. Buddhadatta&apos;s &quot;Concise Pali-English Dictionary&quot;" time="2.586">
+    </testcase>
+  </testsuite>
+</testsuites>
